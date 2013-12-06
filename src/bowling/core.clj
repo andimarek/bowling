@@ -2,6 +2,8 @@
 
 (defn bowling-game
   [rolls]
-  (reduce +  rolls))
+  (reduce + rolls))
+
+
 
 
